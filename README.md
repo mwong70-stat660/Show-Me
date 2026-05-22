@@ -1,6 +1,6 @@
-# FixItFelix: The AI-Powered Repair Revolution
+# Fix-It-Felix: The AI-Powered Repair Revolution
 
-**FixItFelix** is an AI-driven diagnostic platform that empowers anyone to fix broken appliances instantly. By combining computer vision with expert technical knowledge, we are turning "planned repair manual" into "personal service center"
+**Fix-It-Felix** is an AI-driven diagnostic platform that empowers anyone to fix broken appliances instantly. By combining computer vision with expert technical knowledge, we are turning "planned repair manual" into "personal service center"
 
 ---
 
@@ -11,7 +11,7 @@
 - Sherly
 
 ## 🏗 Architecture
-FixItFelix is built on a modern, full-stack reactive architecture designed for speed and precision.
+Fix-It-Felix is built on a modern, full-stack reactive architecture designed for speed and precision.
 
 - **Frontend**: A high-performance **React 19** application styled with **Tailwind CSS**. It features a "mobile-first" scanner interface that uses real-time camera integration and **Framer Motion** for a fluid UX.
 - **Backend**: An **Express/Node.js** server that orchestrates complex AI workflows and simulates enterprise integrations (like Google Sheets for data persistence).
